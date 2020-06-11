@@ -1,0 +1,53 @@
+/* NAVIGATION */
+.navBar {
+  border: black 1px solid;
+}
+/* .navBar ul {
+  display: inline-block;
+  list-style-type: none;
+} */
+.navBar li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 8rem;
+}
+.navBar li a {
+  text-decoration: none;
+}
+.fitPicture {
+  width: 3rem;
+  height: 3rem;
+  margin: 0 1rem;
+}
+.navBar li a:hover {
+  text-decoration: underline;
+  color: orange;
+}
+
+/* SECTION */
+.mainBody {
+  border: pink 1px solid;
+  width: 100%;
+  float: left;
+}
+.articleThoughts {
+  border: black 1px solid;
+  margin: 0.5rem 0.5rem;
+  width: 65%;
+  float: left;
+}
+.asideSide {
+  border: black 1px solid;
+  margin: 0.5rem 0.5rem;
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+
+/* FOOTER */
+.footerBar {
+  width: 100%;
+  text-align: center;
+  border: black 1px solid;
+  float: left;
+}
