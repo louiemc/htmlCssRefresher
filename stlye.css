@@ -9,7 +9,7 @@
 .navBar li {
   list-style-type: none;
   display: inline-block;
-  margin: 0 8rem;
+  margin: 0 5rem;
 }
 .navBar li a {
   text-decoration: none;
